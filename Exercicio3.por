@@ -17,7 +17,7 @@ programa
 		
 		se(quadrado3>=1000)
 		{
-			escreva("Quadrado do terceiro =  " + quadrado3)
+			escreva("Quadrado do terceiro = " + quadrado3)
 		}
 		senao
 		{
@@ -38,7 +38,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 864; 
+ * @POSICAO-CURSOR = 411; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
