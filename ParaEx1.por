@@ -5,7 +5,7 @@ programa
 	{
 	 real filhos = 0, salario =0, somaSal =0, somaFil = 0, mediaF = 0, mediaSal = 0, maiorSal = 0, qntPessoas = 0
 	 
-		para(inteiro i = 1; i <= 2; i++){
+		para(inteiro i = 1; i <= 20; i++){
 			escreva("Digite numero de filhos: ")
 			leia(filhos)
 			somaFil += filhos
@@ -26,7 +26,7 @@ programa
 		escreva(mediaF) 
 		escreva("\n",mediaSal)
 		escreva("\n", maiorSal)
-		escreva("\n", (qntPessoas/2) * 100, "%") 
+		escreva("\n", (qntPessoas/20) * 100, "%") 
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -34,7 +34,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 148; 
+ * @POSICAO-CURSOR = 602; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
